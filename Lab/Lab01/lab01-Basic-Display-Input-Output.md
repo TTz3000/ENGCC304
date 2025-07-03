@@ -36,12 +36,10 @@ int main() {
     
 }
 ```
+![image](https://github.com/user-attachments/assets/a918e892-efb8-4fba-9f6f-0d32202414a0)
 
 ## TEST CASE
 ### Input
-```bash
-![image](https://github.com/user-attachments/assets/a918e892-efb8-4fba-9f6f-0d32202414a0)
-```
 ### Output
 
 ![image](https://github.com/user-attachments/assets/4c6b308c-3f2a-43fb-a37d-752466397c68)
