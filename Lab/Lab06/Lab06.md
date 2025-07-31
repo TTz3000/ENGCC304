@@ -44,9 +44,11 @@ int main() {
 ```
 
 ## TEST CASE
-### Even Number Input & Output
+### Even Number
+### Input & Output
 <img width="264" height="48" alt="image" src="https://github.com/user-attachments/assets/bf6092f1-2142-4fc4-88af-cb4b50e21a3f" />
 
-### Odd Number Input & Output
+### Odd Number
+### Input & Output
 <img width="318" height="48" alt="image" src="https://github.com/user-attachments/assets/64bd3301-57d0-48c8-a0c9-a5601f6a1f5b" />
 
